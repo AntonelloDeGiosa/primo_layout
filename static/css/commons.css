@@ -81,3 +81,17 @@
   font-weight: <weight>;
   font-style: normal;
 }
+
+.overpass-monos{
+  font-family: "Overpass Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: bold;
+  font-size: 22px;
+  line-height: 24px;
+  text-align:left;
+}
+
+body{
+  background-color:#fFFEF0;
+}
