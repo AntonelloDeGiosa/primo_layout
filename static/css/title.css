@@ -3,16 +3,11 @@
       
 }
 
-.title h2{
+.title h1{
     font-size: 48px;
     font-weight: bold;
     line-height: 1;
-    position: relative;
-    width: 710px;
-    height: 224px;
-    margin-left: 365px;
-    margin-right: 365px;
-   
+    margin-bottom: 30px;
 }
 
 

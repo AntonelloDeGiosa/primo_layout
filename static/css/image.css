@@ -1,13 +1,4 @@
-.container{
-    position: relative;
-    width: 1069px;
-    height: 710.66px;
-    margin-left: 185px;
-    margin-right: 185px;
-}
-
-.img{
+.image img{
     width: 100%;
-    height: auto;
+    
 }
-

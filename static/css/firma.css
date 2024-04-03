@@ -1,7 +1,8 @@
 .firma h3{
-    position: relative;
-    width: 170px;
-    height: 40px;
-    margin-left: 365px;
-    margin-right: 905px;
+  font-weight:bold;
+  font-size: 22px;
+  line-height: 24px;
+  text-align:left;
+  margin-top: 35px;
+  margin-bottom: 0px;
 }
